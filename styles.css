@@ -65,3 +65,9 @@ body {
     border-radius: 4px;
     cursor: pointer;
   }
+  @media (max-width:780px){
+    .container {
+      width: 300px;
+      margin: 20px auto;
+    }
+  }
